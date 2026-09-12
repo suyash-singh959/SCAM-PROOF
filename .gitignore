@@ -1,0 +1,7 @@
+.env
+firebase-service-account.json
+auraguard.db
+file_example_WAV_1MG.wav
+
+__pycache__/
+*.pyc
